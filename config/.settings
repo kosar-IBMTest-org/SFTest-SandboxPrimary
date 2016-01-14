@@ -1,0 +1,19 @@
+{
+    "username": "kosarm.spm@github.test", 
+    "environment": "production", 
+    "project_name": "kosarm.spm@github.test", 
+    "workspace": "C:/Users/IBM_ADMIN/mavensmateWorkspaceSF", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "665HNHX69EOMC6MW5W49ZVGNHCX3WYU0", 
+    "metadata_container": "1dc580000008cwBAAQ", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}
